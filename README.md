@@ -1,1 +1,1 @@
-# android_sample_apps-multiplelayouts
+# android_sample_apps
